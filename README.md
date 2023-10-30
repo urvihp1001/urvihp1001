@@ -1,8 +1,9 @@
+## Who am I?
 Heyy, Urvi Patel here.
 I am an IT sudent with a special affinity for cryptography. I look forward to making cool projects to further my programming knowledge! 
 I also love working with the cmd, and unravelling the vast topic that is Operating Systems.
 
-## Tools and Technologies Used
+## Tools and Technologies I use
 
 - [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 - [![Java](https://img.shields.io/badge/Java-11-red)](https://www.oracle.com/java/)
